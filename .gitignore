@@ -1,0 +1,11 @@
+PriceComparison/output.json
+PriceComparison/product_details.json
+PriceComparison/product_details2.json.json
+PriceComparison/PriceComparison/spiders/categories_spider.py
+PriceComparison/PriceComparison/spiders/price_comp_ideolo.py
+PriceComparison/PriceComparison/spiders/ProductSpider.py.py
+PriceComparison/PriceComparison/spiders/item_spider.py
+.idea
+.venv
+logs
+*.log
